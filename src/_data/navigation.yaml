@@ -1,3 +1,9 @@
 items:
-  - text: Page
-    url: /posts/page
+  - text: Brochure
+    url: /posts/brochure
+  - text: Petition
+    url: /posts/petition
+  - text: References
+    url: /posts/references
+  - text: Article
+    url: /posts/article
