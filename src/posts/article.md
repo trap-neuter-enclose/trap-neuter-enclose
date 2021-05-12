@@ -24,7 +24,7 @@ Another justification, according to one (pro-life?) advocate of the “No Kill�
 
 This same No Kill advocate also asserted that “These cats killing birds like sparrows and starlings that were introduced here from Europe will help native birds recover.” Does this mean cats know the difference in their catch-as-catch can survival mode between native and non-native species?
 
-![](static/img/species.jpg)
+![](/static/img/species.jpg)
 
 *Outdoor cats compete with wild predators such as foxes and hawks for the same prey while feeding outdoor cats attracts raccoons & other wildlife. Photos all in same location by the authors.*
 
@@ -38,35 +38,35 @@ There are no large-scale inter-municipal efforts in most parts of the U.S. today
 
 One Minnesota Animal Humane Society (AHS) staffer informed us that “people in your neighborhood feed our Community Cats who help reduce the cat population where you live” but declined to tell us who does the regular feeding and inspection. Another staff member said there was no such feeding. These cats are regarded as “wild animals” by the AHS and local police dept. yet the MN Dept. of Natural Resources discourages people from feeding wildlife and some municipalities have ordinances prohibiting the feeding and encouragement of wildlife. Certainly, putting food out for free-roaming, feral and TNR “Community Cats” will attract raccoons, opossums and other indigenous wildlife and provide a food-source of cats for increasingly omni-present coyotes.
 
-![](static/img/food-source.jpg)
+![](/static/img/food-source.jpg)
 
 *Outdoor cats are predators especially of song birds and small mammals*
 
-![](static/img/coyotes.png)
+![](/static/img/coyotes.png)
 
 *Outdoor cats are prey for coyotes now expanding into urban, suburban & rural communities across the U.S.*
 
 As a veterinarian and former Scientific Advisor and Vice President of the Humane Society of the United States (HSUS) in Washington DC co-author Fox always opposed TNR on humane grounds for those cats evaluated as “unadoptable” where the alternatives of group-housing in enclosed colonies is preferable, as per those of Pro Animale in Europe, and if not available, then euthanasia for humane, public health and wildlife protection reasons. As we have learned from personal experience, many such cats are amenable to human socialization and testing cats just caught and taken into a shelter will understandably show defensive-aggressive behavior out of fear. This should not lead to their immediate rejection as “unadoptable” and being released back where they were found. Their recovery/socialization for adoptability takes time and patience, and when in group-housing situations they will often lose their fear and come to trust people especially when they see other cats in the enclosed colony enjoying human contact and displaying affection.
 
-![](static/img/housing-1.png)
+![](/static/img/housing-1.png)
 
-![](static/img/housing-2.png)
+![](/static/img/housing-2.png)
 
 *Multi-level, indoor-outdoor group housing for stray cats, [Pro Animale für Tiere in Not e.V.](https://www.facebook.com/proanimale/)*
 
 Many cities across the U.S. are embracing TNR under the endorsement of the HSUS which should be held accountable for advocating one of the most inhumane practices of the 21st century.  We are appalled that the HSUS actually endorses and promotes TNR which we consider antithetical to the mission and ethics of animal welfare and protection organizations and which we see as pandering to the pro-life-no-kill sentiment sweeping the country and as self-serving, not wanting to lose donors who love cats and who believe TNR programs are the best solution to what many biologists regard as a plague of free-roaming cats. No TNR program can be effective in communities where people with cats do not have them neutered and allow them to roam free off their properties---and breed, kill wildlife, and get killed, injured or diseased. Even if some TNR cat “colonies” are being regularly fed, cats will still kill, and any becoming sick or injured cannot be provided adequate veterinary treatments.
 
-![](static/img/suffering.jpg)
+![](/static/img/suffering.jpg)
 
 *Much needed veterinary care was delayed in this long- suffering free-roaming cat until she was so weak she was easily caught but had to be euthanized.*
 
 Certainly in relatively closed rural communities and poor urban neighborhoods in the U.S. and abroad where there are large populations of cats outdoors, TNR is one tool to help control their numbers as with village dogs in India and Africa where we have worked. But the public health risks from cats carrying zoonotic diseases from rabies to Toxocariasis ( see Addenda below) and the lack of veterinary preventive medicine and disease surveillance in such communities is problematic.
 
-![](static/img/feeding-station-1.jpg)
+![](/static/img/feeding-station-1.jpg)
 
 *Cats and raccoons together sharing food at TNR cat feeding station. Excellent opportunity to share pathogens. Raccoons are one of the reservoir hosts of the Rabies virus; they also spread Leptospirosis, Canine distemper, roundworms, fleas, and ticks.*
 
-![](static/img/feeding-station-2.png)
+![](/static/img/feeding-station-2.png)
 
 According to the LEAGUE OF MINNESOTA CITIES INFORMATION MEMO **Animal Regulation in Cities**:
 
@@ -107,15 +107,15 @@ MAKING CATS SAFE from the American Bird Conservancy's Cats Indoors Program
 Many people have improved the quality of life and overall well-being of their cats by first, having two or more cats rather than one, and secondly, providing access via a flap door set in a window pane or outside door to an enclosure as per the various “Catio” designs provided by the company Catio Spaces. Catio Plans range from $39.95-$69.95 and 10% is donated to animal welfare organizations.  See DIY Catio Plans:  https://catiospaces.com/catios-cat-enclosures/diy-plans/    Catio Spaces also offers free catio tips.  Visit www.CatioSpaces.com to learn more. 
 
 
-![](static/img/enclosure-1.jpg)
+![](/static/img/enclosure-1.jpg)
 
 *Prefabricated cat enclosures marketed in the U.S. by Catio Spaces*
 
-![](static/img/enclosure-2.jpg)
+![](/static/img/enclosure-2.jpg)
 
 *Neck-bib better than a bell to stop bird catching & killing in enclosed yard. Indoor-outdoor cage accessible from inside the home with climbing and resting areas off-ground and top covered with sheltered area provided by U.K. home owner.*
 
-![](static/img/indoor-outdoor.jpg)
+![](/static/img/indoor-outdoor.jpg)
 
 *Indoor enriched environment and outdoor “catio” for group-housed rescued “feral” cats with 85% socialization recovery and adoptions www.furballfarmpetsanctuary.com. Faribault, MN*
 
@@ -231,29 +231,29 @@ ___
 
 Photo montage of “Mr. Sammler” trapped on our property in Golden Valley MN by Fox & Krantz, * Dec.27, 2015-March 7, 2016. First seen in the summer, eventually trapped, neutered, tested for feline immunodeficiency and feline leukemia virus, treated for round and tape worms and fully vaccinated. Estimated 18 months old. Gradually acclimated to us and resident ex-feral cat who served as a socializing catalyst.
 
-![](static/img/recovery-1.jpg)
+![](/static/img/recovery-1.jpg)
 
 *Summer night hunter, then caught in trap (portrait through the wires) then in-house holding cage meeting resident ex-feral cat*
 
-![](static/img/recovery-2.jpg)
+![](/static/img/recovery-2.jpg)
 
 *Tentative social interaction begins 2 weeks after release from crate, kept open in cat’s “safe” room.*
 
-![](static/img/recovery-3.jpg)
+![](/static/img/recovery-3.jpg)
 
 *Secure in cubby-hole, after 2 weeks accepts being touched and later, paw massage; plays with feathers on a cane under rug*
 
-![](static/img/recovery-4.png)
+![](/static/img/recovery-4.png)
 
-![](static/img/recovery-5.png)
+![](/static/img/recovery-5.png)
 
 *Submits to resident cat, bonds looking outdoors at bird feeders and sleeping together; after 4 weeks enjoys interactive play and stroking with feather-cane and plays under carpet with feather cane and resident cat*
 
-![](static/img/recovery-6.jpg)
+![](/static/img/recovery-6.jpg)
 
 *Mr Sammler, 8 weeks into recovery; a magnificent Silver tabby landrace, adapting well  to life indoors*
 
-![](static/img/recovery-7.png)
+![](/static/img/recovery-7.png)
 
 *Mr. Sammler’s eye talk: Surprise and curiosity, fear and insecurity, trust and acceptance*
 
