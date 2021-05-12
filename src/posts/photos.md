@@ -1,8 +1,7 @@
 ---
 title: Enclosure Photos
 ---
-
-Find photos of enclosures and fencing for sterilized feral cats at these websites.
+These websites show photos of enclosures and fencing for sterilized feral cats.
 
 [Cats of Australia - Cat Enclosures](https://www.catsofaustralia.com/cat-enclosures.htm)
 
