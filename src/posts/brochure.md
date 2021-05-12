@@ -1,4 +1,9 @@
 ---
 title: TNR Reality Check Brochure
 ---
-Coming soon.
+
+[Download the Brochure](src/static/img/tnr-reality-check-brochure.pdf)
+
+Used with permission.
+
+*Source: [http://tnrrealitycheck.com](http://tnrrealitycheck.com/)*
