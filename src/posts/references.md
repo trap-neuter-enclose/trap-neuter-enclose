@@ -10,9 +10,9 @@ This peer reviewed science based long term research study concludes TNR ineffect
 
 ### Saratoga Springs, Utah--City Council Research Study, “The Science of Feral Cats”
 
-Link to the City Council minutes of October 1, 2019 with references and analysis. Pages 3-100 cover the TNR issues in great detail and pp 42 through 99 consist of references **(57 total pages of references)**.))
+Link to the City Council minutes of October 1, 2019 with references and analysis. Pages 3-100 cover the TNR issues in great detail and pp 42 through 99 consist of references **(57 total pages of references)**.
 
-[https://www.utah.gov/pmn/files/535041.pdf](https://www.utah.gov/pmn/files/535041.p)
+[https://www.utah.gov/pmn/files/535041.pdf](https://www.utah.gov/pmn/files/535041.pdf)
 
 ### Among the Pigeons: Why Cats Belong Indoors
 
