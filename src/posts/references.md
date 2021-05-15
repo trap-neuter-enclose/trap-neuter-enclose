@@ -12,7 +12,7 @@ This peer reviewed science based long term research study concludes TNR ineffect
 
 Link to the City Council minutes of October 1, 2019 with references and analysis. Pages 3-100 cover the TNR issues in great detail and pp 42 through 99 consist of references **(57 total pages of references)**.
 
-[https://www.utah.gov/pmn/files/535041.pdf](https://www.utah.gov/pmn/files/535041.pdf)
+[https://www.saratogaspringscity.com/AgendaCenter/ViewFile/Agenda/_10012019-728?packet=true](https://www.saratogaspringscity.com/AgendaCenter/ViewFile/Agenda/_10012019-728?packet=true)
 
 ### Among the Pigeons: Why Cats Belong Indoors
 
