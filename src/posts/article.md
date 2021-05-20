@@ -1,5 +1,5 @@
 ---
-title: 'Article: Inhumane Society Revisited'
+title: Articles by Dr. Michael Fox
 ---
 
 ## Inhumane Society Revisited: Outdoor Cats, Wildlife & Human Health
