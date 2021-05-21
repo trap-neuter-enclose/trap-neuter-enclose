@@ -41,15 +41,15 @@ One Minnesota Animal Humane Society (AHS) staffer informed us that “people in 
 
 *Outdoor cats are predators especially of song birds and small mammals*
 
-![](/static/img/coyotes.png)
+![](/static/img/coyotes.jpg)
 
 *Outdoor cats are prey for coyotes now expanding into urban, suburban & rural communities across the U.S.*
 
 As a veterinarian and former Scientific Advisor and Vice President of the Humane Society of the United States (HSUS) in Washington DC co-author Fox always opposed TNR on humane grounds for those cats evaluated as “unadoptable” where the alternatives of group-housing in enclosed colonies is preferable, as per those of Pro Animale in Europe, and if not available, then euthanasia for humane, public health and wildlife protection reasons. As we have learned from personal experience, many such cats are amenable to human socialization and testing cats just caught and taken into a shelter will understandably show defensive-aggressive behavior out of fear. This should not lead to their immediate rejection as “unadoptable” and being released back where they were found. Their recovery/socialization for adoptability takes time and patience, and when in group-housing situations they will often lose their fear and come to trust people especially when they see other cats in the enclosed colony enjoying human contact and displaying affection.
 
-![](/static/img/housing-1.png)
+![](/static/img/housing-1.jpg)
 
-![](/static/img/housing-2.png)
+![](/static/img/housing-2.jpg)
 
 *Multi-level, indoor-outdoor group housing for stray cats, [Pro Animale für Tiere in Not e.V.](https://www.facebook.com/proanimale/)*
 
@@ -65,7 +65,7 @@ Certainly in relatively closed rural communities and poor urban neighborhoods in
 
 *Cats and raccoons together sharing food at TNR cat feeding station. Excellent opportunity to share pathogens. Raccoons are one of the reservoir hosts of the Rabies virus; they also spread Leptospirosis, Canine distemper, roundworms, fleas, and ticks.*
 
-![](/static/img/feeding-station-2.png)
+![](/static/img/feeding-station-2.jpg)
 
 According to the LEAGUE OF MINNESOTA CITIES INFORMATION MEMO **Animal Regulation in Cities**:
 
@@ -239,9 +239,9 @@ ___
 
 *Secure in cubby-hole, after 2 weeks accepts being touched and later, paw massage; plays with feathers on a cane under rug*
 
-![](/static/img/recovery-4.png)
+![](/static/img/recovery-4.jpg)
 
-![](/static/img/recovery-5.png)
+![](/static/img/recovery-5.jpg)
 
 *Submits to resident cat, bonds looking outdoors at bird feeders and sleeping together; after 4 weeks enjoys interactive play and stroking with feather-cane and plays under carpet with feather cane and resident cat*
 
@@ -249,7 +249,7 @@ ___
 
 *Mr Sammler, 8 weeks into recovery; a magnificent Silver tabby landrace, adapting well  to life indoors*
 
-![](/static/img/recovery-7.png)
+![](/static/img/recovery-7.jpg)
 
 *Mr. Sammler’s eye talk: Surprise and curiosity, fear and insecurity, trust and acceptance*
 
