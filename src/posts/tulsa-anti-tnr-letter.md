@@ -79,23 +79,23 @@ ___
 “A 1 year study of TNR programs…revealed that well-fed cat colonies encouraged illegal abandonment…the arrival of new cats prevented the reduction of the colonies…”
 
 ▪ **Levy, J. K., Crawford, P. C., (2004). Humane strategies for controlling feral cat populations. JAVMA 225, 1354-1360.**  
-“Our analysis indicated that any population-level effects were minimal…which indicated ongoing population growth…”
-“…no plausible combinations of life history variables would likely allow for TNR to succeed in reducing population size…”
+“Our analysis indicated that any population-level effects were minimal…which indicated ongoing population growth…”  
+“…no plausible combinations of life history variables would likely allow for TNR to succeed in reducing population size…”  
 “Although causes of loss from the population included euthanasia of sick cats, adoption, and deaths (often vehicular trauma), increases in population were attributable to immigration…”
 
 ▪ **Foley, P., Foley, J. E., Levy, J. K., Paik, T., (2005) Analysis of the impact of trap-neuter-return programs on the populations of feral cats. JAVMA 227, 1775-1781.**  
-“…virtually no information exists to support the contention that neutering is an effective long-term method for controlling freeroaming cat populations.”
+“…virtually no information exists to support the contention that neutering is an effective long-term method for controlling freeroaming cat populations.”  
 “Immigration or abandonment of new cats may be a frequent event, and free-roaming cats do not appear to have sufficient territorial activity to prevent new arrivals from permanently joining colonies. These new arrivals could substantially limit the success of TNR…”
 
 ▪ **Levy, J. k., Gale, D. W., Gale, L. A., (2003) Evaluation of the effect of a long-term trap-neuter-return and adoption program on a free-roaming cat population. JAVMA 222, 42-46.**  
-“Overall, we did not find any significant differences in population counts across years.”
-“…we counted more than twice as many cats in 2012 as we did in 2011.”
+“Overall, we did not find any significant differences in population counts across years.”  
+“…we counted more than twice as many cats in 2012 as we did in 2011.”  
 “…while we did find a statistically significant increase in the proportion of sterilized individuals…this increase was not enough to expect any decline in population numbers.”
 
 ▪ **Kilgour, R. J., Magle, S. B., Slater, M., Christian, A., Weiss, E., DiTullio, M., (2017) Estimating free-roaming cat populations and the effects of a one year Trap-Neuter-Return management effort in a highly urban area. Urban Ecosyst 20, 207-216**  
-“Neither study reduced cat numbers.”
-“Reducing cat survival (by increasing euthanasia rates) would likely have a greater effect on cat population growth than reducing fecundity (by increasing sterilization rates).”
-“A 50% increase in annual euthanasia rates would likely result in a population decline of 10% per annum; whereas a 75% increase in annual sterilization rates would likely result in an increasing population.”
+“Neither study reduced cat numbers.”  
+“Reducing cat survival (by increasing euthanasia rates) would likely have a greater effect on cat population growth than reducing fecundity (by increasing sterilization rates).”  
+“A 50% increase in annual euthanasia rates would likely result in a population decline of 10% per annum; whereas a 75% increase in annual sterilization rates would likely result in an increasing population.”  
 “Trap-euthanize strategies have proven effective at reducing cat populations…In contrast, TNR programs alone have never been shown to stabilize a feral cat population in the scientific literature.”
 
 ▪ **Gotsis, T., (2014) Feral cats: Do trap-neuter-return programs work? NSW Parliamentary Research Service 18/2014, 1-19**  
@@ -105,7 +105,7 @@ ___
 “It cannot be stated definitively that the total number of cats on campus decreased…”
 
 ▪ **Hughes, K. L., Slater, M. R., (2002) Implementation of a feral cat management program on a university campus. Journal of Applied Welfare Science 5(1), 15-28**  
-“Free-roaming cat populations have a high intrinsic growth rate, and euthanasia is estimated to be more effective at reducing cat populations than trap-neuter-return programs.”
+“Free-roaming cat populations have a high intrinsic growth rate, and euthanasia is estimated to be more effective at reducing cat populations than trap-neuter-return programs.”  
 “Thus, TNR programs are not likely to convert increasing cat populations into declining populations or even stable populations…”
 
 ▪ **Andersen, M. C., Martin, B. J., Roemer, G. W., (2004) Use of matrix population models to estimate the efficacy of euthanasia versus trap-neuter-return for management of free-roaming cats. JAVMA 225, 1871-1876**  
@@ -115,14 +115,14 @@ ___
 “…all these (TNR) efforts…are a waste of money, time, and energy.”
 
 ▪ **Natoli, E., et. al. (2006) Management of feral domestic cats in the urban environment of Rome (Italy). Preventative Veterinary Medicine 77, 180-185**  
-“Stray dogs, cats, and ferrets should be removed from the community…”
+“Stray dogs, cats, and ferrets should be removed from the community…”  
 “Stray and feral cats serve as a significant source of rabies exposure risk.”
 
 ▪ **Brown, C. M., Slavinski, S., Ettestad, P., Sidwa, T. J., Sorhage, F. E., (2016) National Association of Public Health Veterinarians Compendium of animal rabies prevention and control. JAVMA 248, 505-517**  
 “…free-roaming cats are not native to any environment in the United States. Many scientific studies report that non-lethal (TNR) programs do not reduce the numbers of feral cats in the environment.”
 
 ▪ **Frey, N., (2015) Stray cats in your neighborhood. Utah State University Extension, Featured Animal September 2015**  
-“A study of TNR implemented countywide in San Diego showed that feral cat populations had not decreased after 10 years, and a similar result was found after 7 years in Alachua County, Florida, where feral cat populations increased (Foley et al. 2005). ”
+“A study of TNR implemented countywide in San Diego showed that feral cat populations had not decreased after 10 years, and a similar result was found after 7 years in Alachua County, Florida, where feral cat populations increased (Foley et al. 2005). ”  
 “Two colonies subject to TNR in Florida were tracked for over a year and population size of both colonies increased owing to the influx of new cats dumped at the highly visible sites (Castillo & Clarke 2003).”
 
 ▪ **Longcore, T., Rich, C., Sullivan, L. M., (2009) Critical assessment of claims regarding management of feral cats by trap-neuter-return. Conservation Biology 23(4), 887-894**  
@@ -132,9 +132,9 @@ ___
 “In a survey of 101 cat feeders…the total surveyed cat population was reportedly 920 before participation in TNR and 678 after TNR.  However, the total number of cats (n=920) minus deaths (151), disappearances (149), and adoptions (238) and plus births (498) and immigrations (103) equals 983, not 678.”
 
 ▪ **Winter, L., (2004) Trap-neuter-release programs: the reality and the impacts. JAVMA 225, 1369-1376.**  
-“The practice of trapping, neutering, and then re-releasing cats into managed cat colonies does not effectively control cat populations and their adverse impacts on wildlife and should be opposed…”
-“The most effective and humane method of dealing with feral cats is to remove them through trapping followed by adoption or euthanasia”
-“…eradication is the only real answer, however unpleasant…”
+“The practice of trapping, neutering, and then re-releasing cats into managed cat colonies does not effectively control cat populations and their adverse impacts on wildlife and should be opposed…”  
+“The most effective and humane method of dealing with feral cats is to remove them through trapping followed by adoption or euthanasia”  
+“…eradication is the only real answer, however unpleasant…”  
 “…studies and practical experience with cat colonies have shown that they are the wrong solution to cat overpopulation.”
 
 ▪ **Wallace, G., Ellis, J., (2003) Impacts of feral and free-ranging domestic cats on wildlife in Florida.**  
@@ -143,56 +143,55 @@ ___
 “Unowned free-roaming cats pose important threats to human health. Zoonotic concerns include the rabies virus, Toxoplasma gondii, Bartonella species, Toxocara cati, Microsporum canis, Cryptosporidium species, Campylobacter species, Yersinia pestis, Cheyletiella species and Francisella tularensis.”
 
 ▪ **Folfer, W. R., Lovelace, K., Robertson, S., Rose, C., (2013) American Association of Feline Practitioners: Freeroaming, abandoned and feral cats. Journal of Feline Medicine and Surgery, 821-822**  
-“As a rabies vector, cats pose a disproportionate risk for potential human exposures…”
-“A study of 67 counties in Pennsylvania found that 44% of postexposure prophylaxis administration was due to cats, most of which (82%) were feral, stray, or unowned.”
-“Many other potential zoonotic and cat-specific diseases are harbored in feral cat populations in addition to rabies. Among these are bartonellosis, toxoplasmosis, plague, endo-and ectoparasites, feline immunodeficiency (FIV), feline leukemia virus (FeLV), and rickettsial diseases.”
-“Group feeding of cats by colony caretakers puts cats at a greater risk for contracting diseases whose transmission is augmented by increased animal density and contact rates among cats…Group feeding also increases risk for contracting rabies and other wildlife diseases by enabling greater contact along the interface between cat colonies and wildlife reservoirs…Feeding sites that attract raccoons, skunks, and foxes are particularly dangerous because these species are rabies reservoirs in the U.S.”
-“TNVR does not adequately meet feral cat population control needs that public health and animal welfare necessitate.”
-“One recent study, which modeled costs and benefits for TNVR as compared to trap and euthanize programs, found that in all scenarios trap and euthanize programs were cheaper to conduct and had a higher economic benefit.”
+“As a rabies vector, cats pose a disproportionate risk for potential human exposures…”  
+“A study of 67 counties in Pennsylvania found that 44% of postexposure prophylaxis administration was due to cats, most of which (82%) were feral, stray, or unowned.”  
+“Many other potential zoonotic and cat-specific diseases are harbored in feral cat populations in addition to rabies. Among these are bartonellosis, toxoplasmosis, plague, endo-and ectoparasites, feline immunodeficiency (FIV), feline leukemia virus (FeLV), and rickettsial diseases.”  
+“Group feeding of cats by colony caretakers puts cats at a greater risk for contracting diseases whose transmission is augmented by increased animal density and contact rates among cats…Group feeding also increases risk for contracting rabies and other wildlife diseases by enabling greater contact along the interface between cat colonies and wildlife reservoirs…Feeding sites that attract raccoons, skunks, and foxes are particularly dangerous because these species are rabies reservoirs in the U.S.”  
+“TNVR does not adequately meet feral cat population control needs that public health and animal welfare necessitate.”  
+“One recent study, which modeled costs and benefits for TNVR as compared to trap and euthanize programs, found that in all scenarios trap and euthanize programs were cheaper to conduct and had a higher economic benefit.”  
 “TNVR…should not be endorsed as an effective approach…for mitigating health concerns related to feral cat colonies.”
 
 ▪ **Roebling, A. D., Johnson, D., Blanton, J. D., Levin, M., Slate, D., Fenwick, G., Rupprecht, C. E., (2014) Rabies prevention management of cats in context of trap, neuter, vaccinate, release programs. Zoonoses Public Health 61(4), 290-296.**  
-“Domestic cats shed 3 to 349 million T gondii oocysts 3 to 5 days after consuming infected animal tissues…”
-“Annual fecal deposition…by owned cats in the 3 communities was estimated to be 76.4 tons…Feral cats…could be contributing 29 .5 tons of feces to environment per year…”
+“Domestic cats shed 3 to 349 million T gondii oocysts 3 to 5 days after consuming infected animal tissues…”  
+“Annual fecal deposition…by owned cats in the 3 communities was estimated to be 76.4 tons…Feral cats…could be contributing 29 .5 tons of feces to environment per year…”  
 “T gondii oocysts…can remain viable for more than a year in the soil. Contaminated soil is an important source of infection for humans, herbivores, rodents, and birds.”
 
 ▪ **Dabritz, H. A., Atwill, R., Gardner, I. A., Miller, M. A., Conrad, P. A., (2006) Outdoor fecal deposition by freeroaming cats and attitudes of cat owners and nonowners toward stray pets, wildlife, and water pollution. JAVMA 229, 74-81**  
-“Rabies is a disease of great significance in all species, including humans. In the most recently published survey of rabies surveillance in the United States, rabid animals were identified in 49 states…cats represented…nearly 4 times that reported for dogs.”
-“In one survey of feral cats in Italy, two of eight rabid cats were from known feral cat colonies that were managed by human caregivers.”
-“Toxoplasma gondii always is present in feral cat colonies…”
+“Rabies is a disease of great significance in all species, including humans. In the most recently published survey of rabies surveillance in the United States, rabid animals were identified in 49 states…cats represented…nearly 4 times that reported for dogs.”  
+“In one survey of feral cats in Italy, two of eight rabid cats were from known feral cat colonies that were managed by human caregivers.”  
+“Toxoplasma gondii always is present in feral cat colonies…”  
 “One study estimated that in a single community, the amount of feces deposited outdoors by the 2046 feral cats living there every year was about 29.5 tons. A study tracking sources of E. coli in storm sewers feeding rivers and streams demonstrated that the highest percentage from any one source came from cats.”
 
 ▪ **Kustritz, M.V.R., (2011) Managing feral cat colonies. DVM Proceedings May 01, 2011**  
-“Of the more common zoonotic diseases spread by free-roaming cats, rabies is the most worrisome…the disease is diagnosed in cats more often than in any other domestic animal.”
+“Of the more common zoonotic diseases spread by free-roaming cats, rabies is the most worrisome…the disease is diagnosed in cats more often than in any other domestic animal.”  
 “Among the other zoonoses of concern are plague, which has been spread from rodents to cats to humans; toxoplasmosis, which has been spread by free-roaming cats soiling water sources; and Lyme disease, which has been spread by infected ticks brought into the home by free-roaming cats.”
 
 ▪ **How do free-roaming and feral cats impact humans and wild animals? (1998) Animal Sheltering, May-June 1998**  
-“When T. gondii infects…pregnant women it may cause a congenital syndrome that includes deafness, seizures, retinal damage, and mental retardation in the fetus or neonate. In immunocompromised individuals…it may produce severe central nervous system damage…Additional concerns have been raised by recent studies of schizophrenia, depression, suicidal behavior, obsessivecompulsive disorder, rheumatoid arthritis, brain cancer, and scholastic underachievement in children, which have reported correlations between such conditions and elevated T. gondii…”
-“…10% of all deaths of people with HIV are directly from Toxoplasmosis.”
-“T. gondii alone is sufficient reason to stop conducting TNR…”
-“…a recent study…confirms previous reports of higher suicide rates in those infected with T. gondii.”
-“…ocular toxocariasis…is terribly debilitating…blindness is the most common result, with children bearing the high portion of cases.”
+“When T. gondii infects…pregnant women it may cause a congenital syndrome that includes deafness, seizures, retinal damage, and mental retardation in the fetus or neonate. In immunocompromised individuals…it may produce severe central nervous system damage…Additional concerns have been raised by recent studies of schizophrenia, depression, suicidal behavior, obsessivecompulsive disorder, rheumatoid arthritis, brain cancer, and scholastic underachievement in children, which have reported correlations between such conditions and elevated T. gondii…”  
+“…10% of all deaths of people with HIV are directly from Toxoplasmosis.”  
+“T. gondii alone is sufficient reason to stop conducting TNR…”  
+“…a recent study…confirms previous reports of higher suicide rates in those infected with T. gondii.”  
+“…ocular toxocariasis…is terribly debilitating…blindness is the most common result, with children bearing the high portion of cases.”  
 “…many of the cat associated zoonoses are severe and can even include life threatening conditions, such as bubonic plague…”
 
 ▪ **Hillsborough Animal Health Foundation (2012) Public Health Issues. Hahf.org/awake/public-health-issues/**  
 “…stray cats serve as major reservoirs for the bacterium Bartonella spp. And B. clarridgaiae. Consequently, stray cats and their fleas are the only known vectors for infecting house bound cats and humans with this bacterium. Human infections that may result from exposure of this bacterium via stray cats include: cat scratch disease…bacillary angiomatosis, hepatic peliosis…endocarditis, bacteremia, osteolytic lesions, pulmonary nodules, neuroretinitis, and neurological diseases.”
 
 ▪ **United States Department of Agriculture, Animal and Plant Health Inspection Service, Wildlife Services, United States Department of the Interior (2003) Management of feral and free-ranging cat populations to reduce threats to human health and safety and impacts to native wildlife species in the commonwealth of Puerto Rico. Environmental Assessment, 1-65**  
-“…the Centers for Disease Control and Prevention has determined that feral cat colonies pose a threat to human health.”
-“Up to 74 percent of all cats will host the toxoplasmosis-causing parasite in their lifetime and shed hundreds of millions of infectious eggs as a result. Any contact, either directly or indirectly, with cat feces risks human and wildlife health.”
-“Multiple peer-reviewed studies, including the CDC’s, have found that TNR programs do not adequately reduce feral cat populations or effectively mitigate health concerns.”
+“…the Centers for Disease Control and Prevention has determined that feral cat colonies pose a threat to human health.”  
+“Up to 74 percent of all cats will host the toxoplasmosis-causing parasite in their lifetime and shed hundreds of millions of infectious eggs as a result. Any contact, either directly or indirectly, with cat feces risks human and wildlife health.”  
+“Multiple peer-reviewed studies, including the CDC’s, have found that TNR programs do not adequately reduce feral cat populations or effectively mitigate health concerns.”  
 “The only sure way to simultaneously protect wildlife and people is to remove feral cats from the landscape.”
 
-▪ **American Bird Conservancy + 199 other agencies/organizations (2014) Letter to the Honorable Sally Jewell, Secretary,**  
-U.S. Dept. of the Interior. www.abcbirds.org
-**FERAL CATS PREDATE ON OTHER ANIMALS**
-“…cats are responsible for the extinction of at least 33 species of birds around the world.”
-“Estimates from Wisconsin indicate that between 500,000 and 8 million birds are killed are killed by rural cats each year in that state (urban cats are not included in these estimates).”
+▪ **American Bird Conservancy + 199 other agencies/organizations (2014) Letter to the Honorable Sally Jewell, Secretary, U.S. Dept. of the Interior. www.abcbirds.org**  
+**FERAL CATS PREDATE ON OTHER ANIMALS**  
+“…cats are responsible for the extinction of at least 33 species of birds around the world.”  
+“Estimates from Wisconsin indicate that between 500,000 and 8 million birds are killed are killed by rural cats each year in that state (urban cats are not included in these estimates).”  
 “Predation by cats has an economic impact of more than $17 billion dollars per year in the U.S.”
 
 ▪ **Hildreth, A. M., Vantassel, S. M., Hygnstrom, S. E., (2010) Feral cats and their management. University of Nebraska, Extension, EC1781**  
-“We estimate that free-ranging domestic cats kill 1.4-3.7 billion birds and 6.9-20.7 billion mammals annually. Un-owned cats, as opposed to owned pets, cause the majority of this mortality. Our findings suggest that free-ranging cats cause substantially greater wildlife mortality than previously thought and are likely the single greatest source of anthropogenic mortality for US birds and mammals.”
-“Domestic cats…have been listed among the 100 worst non-native invasive species in the world.”
+“We estimate that free-ranging domestic cats kill 1.4-3.7 billion birds and 6.9-20.7 billion mamals annually. Un-owned cats, as opposed to owned pets, cause the majority of this mortality. Our findings suggest that free-ranging cats cause substantially greater wildlife mortality than previously thought and are likely the single greatest source of anthropogenic mortality for US birds and mammals.”
+“Domestic cats…have been listed among the 100 worst non-native invasive species in the world.
 “We estimate that between 258 and 822 million reptiles and between 95 and 299 million amphibians could be killed by cats in the contiguous United States each year.”
 
 ▪ **Loss, S. R., Will, T., Marra, P. P., (2013) The impact of free-ranging domestic cats on wildlife of the United States.  Nature Communications DOI: 10.1038/ncomms2380**  
@@ -216,19 +215,19 @@ U.S. Dept. of the Interior. www.abcbirds.org
 “…TNVR can cost over $100 per cat (including trapping, spaying/neutering, vaccination, and transport), and the cats are still able to prey on native birds and mammals.”
 
 ▪ **Opar, A., (2010) Feral cat predation on birds costs billions of dollars a year. Audubon, December 3, 2010**  
-**FERAL CATS HAVE A NEGATIVE IMPACT ON BIODIVERSITY**
+**FERAL CATS HAVE A NEGATIVE IMPACT ON BIODIVERSITY**  
 “Invasive mammalian predators are arguably the most damaging group of alien animal species for global biodiversity. Species such as cats…threaten biodiversity through predation, competition, disease transmission, and facilitation with other invasive species.”
-“The decline and extinction of native species due to invasive predators can have impacts that cascade throughout entire ecosystems.  For example, predation by feral cats and red foxes has led to the decline or extinction of two thirds of Australia’s digging mammal species…”
-“Rodents are linked to the extinction of 75 species…and cats to 63 extinctions…”
+“The decline and extinction of native species due to invasive predators can have impacts that cascade throughout entire ecosystems.  For example, predation by feral cats and red foxes has led to the decline or extinction of two thirds of Australia’s digging mammal species…”  
+“Rodents are linked to the extinction of 75 species…and cats to 63 extinctions…”  
 “Introduced rodents and cats are major agents of extinction, collectively being listed as causal factors in 44% of modern bird, mammal, and reptile species extinctions.”
 
 ▪ **Doherty, T. S., Glen, A. S., Nimmo, D. G., Ritchie, E. G., Dickman, C. R., (2016) Invasive predators and global biodiversity loss. Proceedings of the National Academy of Sciences 113 (40), 11261-11265**  
-“…the rate of species extinctions is accelerating, with grave impacts on people around the world…”
-“The health of ecosystems on which we and all other species depend is deteriorating mare rapidly than ever. We are eroding the very foundations of our economies, livelihoods, food security, health and quality of life worldwide.”
+“…the rate of species extinctions is accelerating, with grave impacts on people around the world…”  
+“The health of ecosystems on which we and all other species depend is deteriorating mare rapidly than ever. We are eroding the very foundations of our economies, livelihoods, food security, health and quality of life worldwide.”  
 “The number of invasive alien species per country have risen by about 70% since 1970”
 
 ▪ **Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) The global assessment of biodiversity and ecosystem services. 7th session, IPBES Plenary**  
-“The list of ‘100 of the World’s Worst Invasive Alien Species’ that is presented here is designed to enhance awareness of…the terrible consequences, of invasive alien species.”
+“The list of ‘100 of the World’s Worst Invasive Alien Species’ that is presented here is designed to enhance awareness of…the terrible consequences, of invasive alien species.”  
 “100 of the World’s Worst Invasive Alien Species…domestic cat (Felis catus)”
 
 ▪ **Lowe, S., Browne M., Boudjelas, S., De Poorter, M., (2000) 100 of the World’s Worst Invasive Alien Species. Special lift-out in Aliens 12, December 2000, 12pp.**  
@@ -236,23 +235,23 @@ U.S. Dept. of the Interior. www.abcbirds.org
 
 ▪ **Jessup, D. A., (2004) The welfare of feral cats and wildlife. JAVMA 225 (9), 1377-1383**  
 **FERAL CATS HAVE A VERY POOR QUALITY OF LIFE**
-“People for the Ethical Treatment of Animals (PETA) has called TNR “subsidized abandonment” and states that “feral cats do not die of ‘old age.’ They are poisoned, shot, tortured by cruel people, attacked by other animals, or hit by cars, or they die of exposure, starvation, or…contagious diseases…. In one feral cat colony, half of 32 cats were shot by a man who claimed that they were attacking his children. Cats in another colony were shot with darts. A loose dog killed several cats in another colony. Ferals often scratch their ears bloody, driven crazy by pain and itching of ear mites and accompanying infections. Others die of blood loss or anemia from worms and fleas. Urinary tract infections, which frequently lead to blockage in male cats, cause extremely painful, lingering death if not treated. Untreated upper respiratory infections leave eyes and noses so caked with mucus that animals can barely see or breathe.”
+“People for the Ethical Treatment of Animals (PETA) has called TNR “subsidized abandonment” and states that “feral cats do not die of ‘old age.’ They are poisoned, shot, tortured by cruel people, attacked by other animals, or hit by cars, or they die of exposure, starvation, or…contagious diseases…. In one feral cat colony, half of 32 cats were shot by a man who claimed that they were attacking his children. Cats in another colony were shot with darts. A loose dog killed several cats in another colony. Ferals often scratch their ears bloody, driven crazy by pain and itching of ear mites and accompanying infections. Others die of blood loss or anemia from worms and fleas. Urinary tract infections, which frequently lead to blockage in male cats, cause extremely painful, lingering death if not treated. Untreated upper respiratory infections leave eyes and noses so caked with mucus that animals can barely see or breathe.”  
 Many feral cats live short, brutal lives. Figures vary, but the AVMA has used the figure of 2 years as opposed to 10 for the mean lifespan of owned cats; others estimate that feral cats live approximately half as long as owned cats. Mortality rates for feral cats can be up to 80%/y. Feral cats suffer considerably higher rates of injury and disease. Many feral cats succumb to vehicle trauma, predation, disease, or severe weather. Winter has presented a number of examples of the dangerous and unsanitary conditions found at feral cat feeding sites. Clearly these conditions and outcomes are not serving the welfare of feral cats.”
 
 ▪ **Jessup, D. A., (2004) The welfare of feral cats and wildlife. JAVMA 225 (9), 1377-1383**  
 “The average life expectancy of an “outdoor cat” is about two to five years compared with 12 to 15 years for a cat who lives indoors.  Feral cats, as well as homeless domesticated cats who have been set loose outdoors by shelters seeking to avoid the criticism that they might face from euthanizing them, commonly suffer and die from feline leukemia, feline AIDS, and other infectious diseases—even rabies. They also succumb to ailments like anemia and upper respiratory infections—conditions that are easily treatable were the cats to be taken to a veterinarian—but they are not. In winter, cats in cold climates endure subzero temperatures, some losing ears, tails, or limbs to frostbite; others being cut to shreds when they climb into car engines seeking warmth; and still others simply freezing to death. Many cats “disappear”—and while some are hit by cars or attacked by dogs or wild predators and some succumb to parasites or starvation…others are victims of foul play.”
 
 ▪ **Nachminovitch, D., (2017) TNR is dangerous both to cats and to other animals. Voices for Wildlife, March 8, 2017**  
-“Parasitism is the most common transmissable problem of feral cats…92% were infested with fleas and 37% had ear mites.”
-“A study of 80 feral cats…revealed that 54% carried intestinal ascarids, compared with only 4% of 70 pet cats. Tapeworms and coccidia were found in 26% and 13% of feral cats, compared to 4% and 0% of pet cats, respectively. More feral cats (20%) were seropositive for Toxoplasma gondii than pet cats (3%)…In another study, Bartonella henselae was the most common infection identified in 553 (34%) feral cats…”
+“Parasitism is the most common transmissable problem of feral cats…92% were infested with fleas and 37% had ear mites.”  
+“A study of 80 feral cats…revealed that 54% carried intestinal ascarids, compared with only 4% of 70 pet cats. Tapeworms and coccidia were found in 26% and 13% of feral cats, compared to 4% and 0% of pet cats, respectively. More feral cats (20%) were seropositive for Toxoplasma gondii than pet cats (3%)…In another study, Bartonella henselae was the most common infection identified in 553 (34%) feral cats…”  
 “…a kitten mortality rate of >50%...”
 
 ▪ **Levy, J. K., Crawford, P. C., (2004). Humane strategies for controlling feral cat populations. JAVMA 225, 1354-1360.**  
-“The welfare of free-roaming cats concerns society because they are frequent victims of vehicular collisions and fights between themselves and other animals.”
+“The welfare of free-roaming cats concerns society because they are frequent victims of vehicular collisions and fights between themselves and other animals.”  
 “Published figures for survival rates of adults include 33% over a 42 month period…Anecdotal reports estimate adult life span of feral cats at 2 to 3 years.”
 
 ▪ **Andersen, M. C., Martin, B. J., Roemer, G. W., (2004) Use of matrix population models to estimate the efficacy of euthanasia versus trap-neuter-return for management of free-roaming cats. JAVMA 225, 1871-1876**  
-“There are ethical concerns about the well-being of free-roaming cats, as individual health and survival may be severely challenged in urban populations…”
+“There are ethical concerns about the well-being of free-roaming cats, as individual health and survival may be severely challenged in urban populations…”  
 “…Nutter et al. 2004 examined free-roaming cat populations…as part of a Trap-Neuter-Return study, and found kitten mortality…as high as 75%.”
 
 ▪ **Kilgour, R. J., Magle, S. B., Slater, M., Christian, A., Weiss, E., DiTullio, M., (2017) Estimating free-roaming cat populations and the effects of a one year Trap-Neuter-Return management effort in a highly urban area. Urban Ecosyst 20, 207-216**  
