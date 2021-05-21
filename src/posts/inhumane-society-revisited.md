@@ -1,9 +1,6 @@
 ---
-title: Articles by Dr. Michael Fox
+title: "Inhumane Society Revisited: Outdoor Cats, Wildlife & Human Health"
 ---
-
-## Inhumane Society Revisited: Outdoor Cats, Wildlife & Human Health
-
 *By Dr. Michael W. Fox & Deanna L. Krantz*
 
 ### Synopsis
